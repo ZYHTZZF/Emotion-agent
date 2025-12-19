@@ -1,0 +1,8 @@
+gradio
+transformers
+torch
+tensorflow
+fer
+opencv-python
+numpy
+volcenginesdkarkruntime
